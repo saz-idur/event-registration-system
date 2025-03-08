@@ -1,6 +1,0 @@
-Flask==2.3.2
-flask-jwt-extended==4.4.4
-supabase==1.0.3
-qrcode==7.4.2
-selenium==4.10.0
-Werkzeug==2.3.6
